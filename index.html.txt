@@ -3,7 +3,7 @@
 <html lang="es">
  
 <head>
-<title>Titulo de la web</title>
+<title>Creacion Repositorio</title>
 <meta charset="utf-8" />
 </head> 
 <body>
@@ -20,7 +20,7 @@
     <aside>
           </aside>
     <footer>
-        Creado por mi el 2015
+        Creado por Fanny Torrado
     </footer>
 </body>
 </html>
